@@ -1,4 +1,4 @@
-# mcp-poc
+# mcp-curso Udemy
 
 Este projeto foi desenvolvido com base nos ensinamentos do curso "MCP na Prática: Crie Agentes LLM Conectados e Inteligentes" da Udemy. + +Link do Curso: https://www.udemy.com/course/mcp-na-pratica-crie-agentes-llm-conectados-e-inteligente/
 
